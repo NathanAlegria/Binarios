@@ -32,7 +32,7 @@ public class Empresa {
             System.out.println("4- Pagar Empleado");
             System.out.println("5- Despedir Empleado");
             System.out.println("6- Salir");
-            System.out.print("Escoja una opción: ");
+            System.out.print("Escoja una opcion: ");
 
             op = lea.nextInt();
             try {
